@@ -39,4 +39,4 @@ async def on_message(message):
         emoji = random.choice(["😎", "😂"])
         await message.channel.send(emoji)
 
-client.run("MTIwMTA4ODE0OTU0MDA0NDgyMg.GMNMln.t6M_kadUz41ZZ3X4dPdTk1nTvBx-WG7EpiSuvE")
+client.run("your token")
